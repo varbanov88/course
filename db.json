@@ -1,0 +1,13 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "hello",
+      "authorId": 1
+    }
+  ],
+  "authors": {
+    "name": "Cory House",
+    "id": 1
+  }
+}
